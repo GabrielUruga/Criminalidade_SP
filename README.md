@@ -6,7 +6,7 @@
 
 <h2 align="left"> :clipboard: Etapas do Projeto </h2>
 
-<li> <b> Importação dos Dados no Big Query </b> </li>
+<li> <b> Importação dos Dados de uma planilha para o Big Query </b> </li>
 <li> <b> Elaborar Consultas utilizando SQL </b> </li>
 <li> <b> Integração entre Big Query e Looker Studio </b> </li>
 <li> <b> Elaboração de um <a href = https://lookerstudio.google.com/embed/u/0/reporting/ceacb23e-f69d-4d07-99b7-94105eaf9c4f/page/p_dzji19smjd> Dashboard </a> com Looker Studio para Análise e Visualização de Dados </b> </li>
